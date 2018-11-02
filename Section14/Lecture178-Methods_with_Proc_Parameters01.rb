@@ -1,5 +1,5 @@
 
-# myprc is a Proc
+# Methods that uses procs as a parameters
 
 def talk_about(name, &myprc)
   puts "Let me tell you about #{name}"
@@ -19,5 +19,9 @@ end
 
 talk_about("Boris", &good_things)
 puts
-talk_about("Hugo", &bad_things)
+talk_about("Valentina", &good_things)
+puts
+talk_about("Buu-Andres", &bad_things)
+puts
+talk_about("Darío", &bad_things)
 

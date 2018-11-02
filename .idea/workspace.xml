@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf24d2bf-6cd2-4290-b389-a783bbb53a23" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Section14/Lecture178-Methods_with_Proc_Parameters01.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section14/Lecture179-Intro_to_Lambda02.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section14/Lecture179-Intro_to_Lambda03.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section14/Lecture178-Methods_with_Proc_Parameters01.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Section14/Lecture178-Methods_with_Proc_Parameters01.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +15,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture174_YieldingWithArguments02.rcov" NAME="Lecture174-YieldingWithArguments02 Coverage Results" MODIFIED="1541171681354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
+    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture179_Intro_to_Lambdas01.rcov" NAME="Lecture179-Intro_to_Lambdas01 Coverage Results" MODIFIED="1541193352487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@ProcI_1.rcov" NAME="ProcI-1 Coverage Results" MODIFIED="1540429352589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture176_ProcII02.rcov" NAME="Lecture176-ProcII02 Coverage Results" MODIFIED="1541186448023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@ProcI_4.rcov" NAME="ProcI-4 Coverage Results" MODIFIED="1540431736613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
@@ -21,9 +24,10 @@
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture176_ProcsII01.rcov" NAME="Lecture176-ProcsII01 Coverage Results" MODIFIED="1541184992896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture177_Pass_A_Ruby_Method_as_Proc01.rcov" NAME="Lecture177-Pass_A_Ruby_Method_as_Proc01 Coverage Results" MODIFIED="1541187647842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@ProcI_2.rcov" NAME="ProcI-2 Coverage Results" MODIFIED="1540430315819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
+    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture179_Intro_to_Lambda02.rcov" NAME="Lecture179-Intro_to_Lambda02 Coverage Results" MODIFIED="1541193953358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@The_block_given01.rcov" NAME="The_block_given01 Coverage Results" MODIFIED="1541170987791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture175_A_Custom_each_Method01.rcov" NAME="Lecture175-A_Custom_each_Method01 Coverage Results" MODIFIED="1541183596640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
-    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture178_Methods_with_Proc_Parameters01.rcov" NAME="Lecture178-Methods_with_Proc_Parameters01 Coverage Results" MODIFIED="1541189362469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
+    <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture178_Methods_with_Proc_Parameters01.rcov" NAME="Lecture178-Methods_with_Proc_Parameters01 Coverage Results" MODIFIED="1541192807048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@ProcI_3.rcov" NAME="ProcI-3 Coverage Results" MODIFIED="1540430878167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture174__YieldingWithArguments01.rcov" NAME="Lecture174 -YieldingWithArguments01 Coverage Results" MODIFIED="1541171307983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
     <SUITE FILE_PATH="coverage/LearnToCodeWithRuby@Lecture174_YieldingWithArguments04.rcov" NAME="Lecture174-YieldingWithArguments04 Coverage Results" MODIFIED="1541176474607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section14" MODULE_NAME="LearnToCodeWithRuby" />
@@ -38,35 +42,49 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="rb" value="10" />
+          <entry key="rb" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Ruby" value="10" />
+          <entry key="Ruby" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="2090" />
+          <entry key="rb" value="2880" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ruby" value="2090" />
+          <entry key="Ruby" value="2880" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Section14/Lecture178-Methods_with_Proc_Parameters01.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="306">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section14/Lecture179-Intro_to_Lambda02.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Section14/Lecture179-Intro_to_Lambda03.rb">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -92,6 +110,8 @@
         <option value="$PROJECT_DIR$/Section14/Lecture176-ProcII02.rb" />
         <option value="$PROJECT_DIR$/Section14/Lecture177-Pass_A_Ruby_Method_as_Proc01.rb" />
         <option value="$PROJECT_DIR$/Section14/Lecture178-Methods_with_Proc_Parameters01.rb" />
+        <option value="$PROJECT_DIR$/Section14/Lecture179-Intro_to_Lambdas01.rb" />
+        <option value="$PROJECT_DIR$/Section14/Lecture179-Intro_to_Lambda02.rb" />
       </list>
     </option>
   </component>
@@ -101,7 +121,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1374" />
     <option name="y" value="297" />
     <option name="width" value="1382" />
@@ -153,21 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.Lecture178-Methods_with_Proc_Parameters01">
-    <configuration name="Lecture175-A_Custom_each_Method01" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="LearnToCodeWithRuby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Section14" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Section14/Lecture175-A_Custom_each_Method01.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Ruby.Lecture179-Intro_to_Lambda02">
     <configuration name="Lecture176-ProcII02" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="LearnToCodeWithRuby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -179,20 +185,6 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Section14/Lecture176-ProcII02.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lecture176-ProcsII01" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="LearnToCodeWithRuby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Section14" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Section14/Lecture176-ProcsII01.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -224,20 +216,48 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lecture179-Intro_to_Lambda02" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LearnToCodeWithRuby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Section14" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Section14/Lecture179-Intro_to_Lambda02.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lecture179-Intro_to_Lambdas01" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LearnToCodeWithRuby" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Section14" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Section14/Lecture179-Intro_to_Lambdas01.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Ruby.Lecture175-A_Custom_each_Method01" />
-      <item itemvalue="Ruby.Lecture176-ProcsII01" />
       <item itemvalue="Ruby.Lecture176-ProcII02" />
       <item itemvalue="Ruby.Lecture177-Pass_A_Ruby_Method_as_Proc01" />
       <item itemvalue="Ruby.Lecture178-Methods_with_Proc_Parameters01" />
+      <item itemvalue="Ruby.Lecture179-Intro_to_Lambdas01" />
+      <item itemvalue="Ruby.Lecture179-Intro_to_Lambda02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.Lecture179-Intro_to_Lambda02" />
+        <item itemvalue="Ruby.Lecture179-Intro_to_Lambdas01" />
         <item itemvalue="Ruby.Lecture178-Methods_with_Proc_Parameters01" />
         <item itemvalue="Ruby.Lecture177-Pass_A_Ruby_Method_as_Proc01" />
         <item itemvalue="Ruby.Lecture176-ProcII02" />
-        <item itemvalue="Ruby.Lecture176-ProcsII01" />
-        <item itemvalue="Ruby.Lecture175-A_Custom_each_Method01" />
       </list>
     </recent_temporary>
   </component>
@@ -254,23 +274,23 @@
       <updated>1540428536492</updated>
       <workItem from="1540428537748" duration="4235000" />
       <workItem from="1540655643942" duration="1589000" />
-      <workItem from="1541170205722" duration="9694000" />
+      <workItem from="1541170205722" duration="11920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15518000" />
+    <option name="totallyTimeSpent" value="17744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="297" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16414523" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3213166" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31661442" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,10 +413,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Section14/Lecture178-Methods_with_Proc_Parameters01.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="306">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section14/Lecture179-Intro_to_Lambdas01.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section14/Lecture179-Intro_to_Lambda02.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section14/Lecture179-Intro_to_Lambda03.rb">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
